@@ -1,0 +1,8 @@
+The Chemical Combinations
+=========================
+Abrí index.html con cualquier navegador (doble clic). El archivo es autónomo: el logo, la imagen final y los
+sprites ya están incluidos dentro. Necesita internet solo para las tipografías (Google Fonts); sin conexión usa
+tipografías del sistema.
+
+La carpeta sprites/ trae los PNG en pixel art (cada archivo tiene todos los cuadros de la animación en fila):
+carbon, methanol, water, benzene, flask, bunsen y dna.
