@@ -1,8 +1,11 @@
-The Chemical Combinations
-=========================
-Abrí index.html con cualquier navegador (doble clic). El archivo es autónomo: el logo, la imagen final y los
-sprites ya están incluidos dentro. Necesita internet solo para las tipografías (Google Fonts); sin conexión usa
-tipografías del sistema.
+The Chemical Combinations · ITEC Instituto Terciario
+====================================================
+index.html ........................ versión principal
+version-laboratorio-genetico.html . misma página con estética de laboratorio genético (ámbar y cian)
 
-La carpeta sprites/ trae los PNG en pixel art (cada archivo tiene todos los cuadros de la animación en fila):
-carbon, methanol, water, benzene, flask, bunsen y dna.
+Abrí cualquiera con un navegador (doble clic). Son archivos autónomos: el logo, la imagen final y los sprites
+ya están incluidos dentro. Necesitan internet solo para las tipografías (Google Fonts).
+
+- Ficha 3D de cada elemento: doble clic en una casilla, o "Tocar: ver ficha 3D" y tocá.
+- Cuaderno de laboratorio: titulación, complejo de cobre y decantación con líquidos animados.
+- sprites/: PNG en pixel art (todos los cuadros de cada animación en fila).
